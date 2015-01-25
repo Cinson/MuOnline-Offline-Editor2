@@ -1,0 +1,9 @@
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\ParseItemKor\bin\Debug\ParseItemKor.exe.config
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\ParseItemKor\bin\Debug\ParseItemKor.exe
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\ParseItemKor\bin\Debug\ParseItemKor.pdb
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\ParseItemKor\obj\Debug\ParseItemKor.Form1.resources
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\ParseItemKor\obj\Debug\ParseItemKor.Properties.Resources.resources
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\ParseItemKor\obj\Debug\ParseItemKor.csproj.GenerateResource.Cache
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\ParseItemKor\obj\Debug\ParseItemKor.exe
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\ParseItemKor\obj\Debug\ParseItemKor.pdb
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\ParseItemKor\obj\Debug\ParseItemKor.csprojResolveAssemblyReference.cache

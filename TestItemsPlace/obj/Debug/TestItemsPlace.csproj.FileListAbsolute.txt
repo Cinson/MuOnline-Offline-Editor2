@@ -1,0 +1,6 @@
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\TestItemsPlace\bin\Debug\TestItemsPlace.exe.config
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\TestItemsPlace\bin\Debug\TestItemsPlace.exe
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\TestItemsPlace\bin\Debug\TestItemsPlace.pdb
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\TestItemsPlace\obj\Debug\TestItemsPlace.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\TestItemsPlace\obj\Debug\TestItemsPlace.exe
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\TestItemsPlace\obj\Debug\TestItemsPlace.pdb

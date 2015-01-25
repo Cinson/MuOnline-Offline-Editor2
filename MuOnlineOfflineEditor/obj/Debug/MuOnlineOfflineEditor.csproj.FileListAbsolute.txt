@@ -1,0 +1,10 @@
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\bin\Debug\MuOnlineOfflineEditor.exe.config
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\bin\Debug\MuOnlineOfflineEditor.exe
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\bin\Debug\MuOnlineOfflineEditor.pdb
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\obj\Debug\MuOnlineOfflineEditor.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\obj\Debug\MuOnlineOfflineEditor.Properties.Resources.resources
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\obj\Debug\MuOnlineOfflineEditor.csproj.GenerateResource.Cache
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\obj\Debug\MuOnlineOfflineEditor.exe
+c:\users\vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\obj\Debug\MuOnlineOfflineEditor.pdb
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\obj\Debug\MuOnlineOfflineEditor.Login.resources
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MuOnlineOfflineEditor\obj\Debug\MuOnlineOfflineEditor.MainForm.resources

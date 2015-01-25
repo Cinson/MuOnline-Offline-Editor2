@@ -1,0 +1,9 @@
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MOE Server\bin\Debug\MOE Server.exe.config
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MOE Server\bin\Debug\MOE Server.exe
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MOE Server\bin\Debug\MOE Server.pdb
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MOE Server\obj\Debug\MOE Server.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MOE Server\obj\Debug\MOE_Server.Form1.resources
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MOE Server\obj\Debug\MOE_Server.Properties.Resources.resources
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MOE Server\obj\Debug\MOE Server.csproj.GenerateResource.Cache
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MOE Server\obj\Debug\MOE Server.exe
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\MOE Server\obj\Debug\MOE Server.pdb

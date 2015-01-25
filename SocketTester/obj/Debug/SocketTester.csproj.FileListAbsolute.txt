@@ -1,0 +1,6 @@
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\SocketTester\bin\Debug\SocketTester.exe.config
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\SocketTester\bin\Debug\SocketTester.exe
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\SocketTester\bin\Debug\SocketTester.pdb
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\SocketTester\obj\Debug\SocketTester.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\SocketTester\obj\Debug\SocketTester.exe
+C:\Users\Vanko\documents\visual studio 2013\Projects\MuOnlineOfflineEditor\SocketTester\obj\Debug\SocketTester.pdb
